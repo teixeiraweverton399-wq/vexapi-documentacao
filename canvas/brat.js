@@ -51,8 +51,8 @@ function baixarImagem(url, destino) {
 // ==========================
 // CONFIGURAÇÃO
 // ==========================
-const apikey = '5c9c1d4b-900e-4892-8f2c-24e31a51a614'; // Sua chave Vex API
-const query = 'Vex API'; // Texto que vai aparecer na imagem
+const apikey = '81d291be-9693-44e4-b405-2a23a5b6b4b2'; // Sua chave Vex API
+const query = 'brat'; // Texto que vai aparecer na imagem
 
 // URL completa da API Brat
 const urlAPI = `https://vexapi.com.br/api/canvas/brat?apikey=${apikey}&query=${encodeURIComponent(query)}`;
